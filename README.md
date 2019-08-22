@@ -1,3 +1,4 @@
+
 # Weather Power-Up for Trello
 
 A small sample Power-Up for Trello that shows weather data on cards. It
@@ -59,3 +60,7 @@ various guides and documentation.
 
 You can jump right to
 [Power-Ups Documentation](https://developers.trello.com/reference#power-ups-intro)
+=======
+# weather-power-up
+Trello PowerUp from instructional video
+
