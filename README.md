@@ -64,3 +64,5 @@ You can jump right to
 # weather-power-up
 Trello PowerUp from instructional video
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0f3157ef-23cb-4bca-8dfe-742924ea311f/deploy-status)](https://app.netlify.com/sites/w-power-up/deploys)
+
